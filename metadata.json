@@ -1,0 +1,5 @@
+{
+  "name": "3CHAT",
+  "description": "A custom chatbot application powered by Gemini, featuring three distinct chat personalities: a Creative Assistant, a Code Wizard, and a Sarcastic Sage. Users can seamlessly switch between these personas for different conversational experiences.",
+  "requestFramePermissions": []
+}
